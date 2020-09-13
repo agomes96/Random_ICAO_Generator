@@ -1,0 +1,9 @@
+//var count = Object.keys(airports).length; Tamanho do json
+//console.log(Object.keys(airports)[2]);
+//console.log(airports["LPPR"])
+//console.log(Object.values(airports))
+//console.log(Object.values(airports[Object.keys(airports)[0]]));
+ //const result = Object.values(airports).filter(airport => airport.state === "Porto");
+
+
+ src= {"https://www.google.com/maps/search/?api=1&query="+props.lat+","+props.lon+"&output=embed"}
