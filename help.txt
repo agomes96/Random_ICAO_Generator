@@ -7,3 +7,11 @@
 
 
  src= {"https://www.google.com/maps/search/?api=1&query="+props.lat+","+props.lon+"&output=embed"}
+
+Africa
+Antarctica
+Asia
+Oceania
+Europe
+North America
+South America
