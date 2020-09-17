@@ -286,7 +286,7 @@ function IcaoGenerator(){
         <div>
             <Row>
                 <Col></Col>
-                <Col xs={6}>
+                <Col xs={9}>
                     {notFoundAlert === true && <AlertDismissible />}
                     <CardComponent 
                         icao={icao} 
