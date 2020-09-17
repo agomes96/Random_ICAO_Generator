@@ -1,6 +1,8 @@
 # Random ICAO Generator
 
-This app generate a random [ICAO](https://en.wikipedia.org/wiki/ICAO_airport_code) code.
+This app generate a random [ICAO](https://en.wikipedia.org/wiki/ICAO_airport_code) code from a list with 28k airports.
+
+Its possible to filter by the name of the city/state, country and continent.
 
 ## Live View
 [https://agomes96.github.io/random_icao_generator](https://agomes96.github.io/random_icao_generator)
